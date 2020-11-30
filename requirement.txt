@@ -1,0 +1,5 @@
+python==3.7
+django==2.2.7
+djangorestframework
+django_rest_swagger
+djangorestframework_simplejwt
